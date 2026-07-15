@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "operator": "Ramesh Patel",
+    "shift": "morning",
+    "date": "2026-07-03",
+    "section": "Assembly Line A",
+    "notes": "Bogie assembly was completed for WDG4-110. Traction motor fitment on WDG4-111 is still pending because the alignment team was called away. The overhead crane C2 made a grinding noise during the last lift and maintenance was informed. Please complete motor alignment first in the afternoon shift."
+  },
+  {
+    "id": 2,
+    "operator": "Priya Sharma",
+    "shift": "afternoon",
+    "date": "2026-07-03",
+    "section": "Electrical Section",
+    "notes": "Completed cable routing on WAP7-032. Electrical inspection for WAP7-045 was deferred again because the insulation tester was being calibrated. Two connector kits, part DB-447, are left in the rack and more are needed for tomorrow. Incoming shift should reserve the tester and finish the WAP7-045 inspection."
+  },
+  {
+    "id": 3,
+    "operator": "Mahesh Yadav",
+    "shift": "night",
+    "date": "2026-07-04",
+    "section": "Wheel Shop",
+    "notes": "Hydraulic press P3 stopped midway during wheel seating for WDG4-112. The maintenance electrician isolated the panel and placed a lockout tag. There was a near-miss when a wheel sling swung close to a helper, but nobody was injured. Wheel seating for WDG4-112 must wait until P3 is cleared."
+  },
+  {
+    "id": 4,
+    "operator": "Kavita Singh",
+    "shift": "morning",
+    "date": "2026-07-05",
+    "section": "Paint & Finishing",
+    "notes": "Primer coating on WDG4-113 was completed. Spray gun SG-2 is sputtering and leaving uneven paint on the side panel, so it was removed from use. We are low on grey topcoat, enough for only one more panel. Please arrange spray gun repair and topcoat before the next body arrives."
+  },
+  {
+    "id": 5,
+    "operator": "Sanjay Kumar",
+    "shift": "afternoon",
+    "date": "2026-07-05",
+    "section": "Maintenance Bay",
+    "notes": "Emergency breakdown of the coolant pump on WDG4-114 was handled overnight and the pump is running now. A small oil spill near Bay 2 caused one worker to slip; he was checked at first aid and the area was cleaned. The cooling pressure needs a recheck after two hours of running."
+  },
+  {
+    "id": 6,
+    "operator": "Anita Verma",
+    "shift": "night",
+    "date": "2026-07-06",
+    "section": "Quality Control",
+    "notes": "Inspection found excessive vibration on the auxiliary blower of WDG4-115. A loose mounting bolt was also found on the same unit and has been marked for rectification. Three inspectors were absent, so only half of the scheduled inspections were completed. Prioritize the blower check and carry the remaining inspections to morning shift."
+  },
+  {
+    "id": 7,
+    "operator": "Deepak Joshi",
+    "shift": "morning",
+    "date": "2026-07-07",
+    "section": "Stores & Material",
+    "notes": "Received brake hose sets for WDG4-116, but the bearing seals are short by twelve pieces. Part number BR-221 has no stock in the local bin and the indent is still open. Two store assistants were absent, delaying issue slips. Please follow up the BR-221 indent before assembly asks again."
+  },
+  {
+    "id": 8,
+    "operator": "Farhan Khan",
+    "shift": "afternoon",
+    "date": "2026-07-08",
+    "section": "Loco Testing Track",
+    "notes": "Brake test for WDG4-117 passed, but the horn circuit needs retesting after an intermittent drop was seen. WAP7-032 is waiting at the track for final functional checks. No safety incident was reported. Complete the horn retest before releasing WDG4-117."
+  },
+  {
+    "id": 9,
+    "operator": "Neha Gupta",
+    "shift": "night",
+    "date": "2026-07-09",
+    "section": "Electrical Section",
+    "notes": "WAP7-045 electrical inspection remains pending for the second shift because the calibrated insulation tester was not returned. The battery cable termination on WDG4-110 was completed. One panel technician was absent, reducing the planned output. Morning shift must obtain the tester and close the WAP7-045 inspection."
+  },
+  {
+    "id": 10,
+    "operator": "Vijay Chauhan",
+    "shift": "morning",
+    "date": "2026-07-10",
+    "section": "Assembly Line B",
+    "notes": "Cab fitting for WDG4-116 is complete except for the left mirror bracket. The bracket stock is empty and purchase has been informed. WAP7-045 is still waiting for the repeatedly deferred electrical inspection, which is now affecting its release plan. Prioritize the mirror bracket shortage and escalation of the WAP7-045 inspection."
+  }
+]
+
