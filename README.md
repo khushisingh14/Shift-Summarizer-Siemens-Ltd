@@ -182,7 +182,8 @@ README.md                 Project setup and usage guide
 
 ## Future Scope:
 
-1. complete time sheet along with overtime request and approval via email only.
-2. unique identofication and passwords name employee code date and time.
-3. tool box checklists and approval method. 
-4. login page with admin protocols (security layer)
+1. employee dashboard that shows "Pending Reports" along with locations, tasks, operator name, id and date and time
+2. complete time sheet along with overtime request and approval via email only.
+3. unique identofication and passwords name employee code date and time.
+4. tool box checklists and approval method. 
+5. login page with admin protocols (security layer)
