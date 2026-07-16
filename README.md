@@ -179,3 +179,10 @@ README.md                 Project setup and usage guide
 - `.env` is listed in `.gitignore` and will not be committed to Git
 - Never commit your `GROQ_API_KEY` or database password
 - Use `.env.example` as a safe reference template — it contains no real credentials
+
+## Future Scope:
+
+1. complete time sheet along with overtime request and approval via email only.
+2. unique identofication and passwords name employee code date and time.
+3. tool box checklists and approval method. 
+4. login page with admin protocols (security layer)
