@@ -174,11 +174,6 @@ server/
 README.md                 Project setup and usage guide
 ```
 
-## Security notes
-
-- `.env` is listed in `.gitignore` and will not be committed to Git
-- Never commit your `GROQ_API_KEY` or database password
-- Use `.env.example` as a safe reference template — it contains no real credentials
 
 ## Future Scope:
 
